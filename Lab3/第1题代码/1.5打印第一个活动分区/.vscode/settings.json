@@ -1,0 +1,12 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "files.associations": {
+	"*.asm": "asm-intel-x86-generic",
+	"*.c": "c",
+	"*.h": "c",
+	"*.ld": "linkerscript",
+	"Makefrag": "makefile"
+}
+}
